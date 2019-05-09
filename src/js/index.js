@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import '../css/main.scss';
-import Counter from './components/Counter'
+import Counters from './components/Counters'
 
-ReactDOM.render(<Counter/>, document.getElementById('app'));
+ReactDOM.render(<Counters/>, document.getElementById('app'));
